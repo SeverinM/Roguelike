@@ -62,6 +62,7 @@
   <ItemGroup>
     <Compile Include="Assets\Chunk.cs" />
     <Compile Include="Assets\DatabaseSprite.cs" />
+    <Compile Include="Assets\InputManager.cs" />
     <Compile Include="Assets\TilesManager.cs" />
     <Compile Include="Assets\Tree.cs" />
     <Compile Include="Assets\TreeElements.cs" />
